@@ -1,0 +1,14 @@
+com/applibri/MainApplication.java
+ com.applibri.MainApplication
+ com.applibri.MainApplication$1
+com/applibri/MainActivity.java
+ com.applibri.MainActivity
+com/applibri/BuildConfig.java
+ com.applibri.BuildConfig
+com/applibri/ReactNativeFlipper.java
+ com.applibri.ReactNativeFlipper
+ com.applibri.ReactNativeFlipper$1
+ com.applibri.ReactNativeFlipper$2
+ com.applibri.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

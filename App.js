@@ -31,6 +31,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Cadastro from "./src/telas/Cadastro";
 import Listagem from "./src/telas/Listagem";
 import Detalhes from "./src/telas/Detalhes";
+import Editar from "./src/telas/Editar";
 
 const Stack = createNativeStackNavigator();
 
@@ -67,6 +68,12 @@ const App = ()=>{
             name="Detalhes"
             component={Detalhes}
             options={{title:'DETALHES DE LIVROS'}}
+        />
+
+        <Stack.Screen 
+            name="Editar"
+            component={Editar}
+            options={{title:'EDIÇÃO DE LIVROS'}}
         />
 
       </Stack.Navigator>

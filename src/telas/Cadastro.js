@@ -11,7 +11,7 @@ import Button from "../componentes/Button";
 import COLORS from '../const/colors';
 import apiLivraria from '../service/apiLivraria';
 
-const Cadastro = ()=>{
+const Cadastro = () => {
 
     /***** CAPTURA DE DADOS COM USO DE STATE *****/
     //CRIAÇÃO DA ESTRUTURA DE STATE QUE ARMAZENA
